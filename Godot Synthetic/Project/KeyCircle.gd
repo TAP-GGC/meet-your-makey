@@ -12,7 +12,7 @@ func _ready():
 func _process(delta):
 	start_point = _EndlineAngle(Vector2(0,0), (position_value * PI/3), magnitude) 
 	self.position = start_point
-	self.rotation = abs(get_parent().rotation)
+	#self.rotation = abs(get_parent().rotation)
 	
 	if(isPressed and magnitude > 40):
 		magnitude -= 1

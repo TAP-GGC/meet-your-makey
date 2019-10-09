@@ -11,8 +11,8 @@
 [ext_resource path="res://Images/CircleF.png" type="Texture" id=9]
 [ext_resource path="res://Images/CircleG.png" type="Texture" id=10]
 [ext_resource path="res://AudioManager.gd" type="Script" id=11]
-[ext_resource path="res://Music/CelloA.wav" type="AudioStream" id=12]
-[ext_resource path="res://Music/CelloB.wav" type="AudioStream" id=13]
+[ext_resource path="res://Music/CelloB.wav" type="AudioStream" id=12]
+[ext_resource path="res://Music/CelloA.wav" type="AudioStream" id=13]
 [ext_resource path="res://Music/CelloC.wav" type="AudioStream" id=14]
 [ext_resource path="res://Music/CelloD.wav" type="AudioStream" id=15]
 [ext_resource path="res://Music/CelloE.wav" type="AudioStream" id=16]
@@ -81,12 +81,12 @@ magnitude = 220
 [node name="Audio Manager" type="Node2D" parent="."]
 script = ExtResource( 11 )
 
-[node name="W Note" type="AudioStreamPlayer" parent="Audio Manager"]
-stream = ExtResource( 12 )
-pitch_scale = 0.5
-
 [node name="A Note" type="AudioStreamPlayer" parent="Audio Manager"]
+stream = ExtResource( 12 )
+
+[node name="W Note" type="AudioStreamPlayer" parent="Audio Manager"]
 stream = ExtResource( 13 )
+pitch_scale = 0.5
 
 [node name="S Note" type="AudioStreamPlayer" parent="Audio Manager"]
 stream = ExtResource( 14 )

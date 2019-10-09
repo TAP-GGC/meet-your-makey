@@ -29,15 +29,15 @@ func _process(delta):
 
 func _input(event):
 	if event is InputEventKey:
-		if event.is_pressed() == true and event.scancode == KEY_UP and not event.echo:
+		if event.is_pressed() == true and event.scancode == KEY_UP:
 			if rotation_node.rotation_range < 60:
 				rotation_node.rotation_range += 1;
-				pitch += .02
+				pitch += .005
 			
-		if event.is_pressed() == true and event.scancode == KEY_DOWN and not event.echo:
-			if rotation_node.rotation_range > 0:
+		if event.is_pressed() == true and event.scancode == KEY_DOWN:
+			if rotation_node.rotation_range > -60:
 				rotation_node.rotation_range -= 1;
-				pitch -= .02
+				pitch -= .005
 		
 		
 		if event.is_pressed() == true and event.scancode == KEY_W and not event.echo:
