@@ -1,12 +1,8 @@
-[gd_scene load_steps=8 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://script/Input Panel.gd" type="Script" id=1]
 [ext_resource path="res://Images/UpArrow.png" type="Texture" id=2]
 [ext_resource path="res://prefab/Volume Container.tscn" type="PackedScene" id=3]
-[ext_resource path="res://Images/Speaker-0.svg" type="Texture" id=4]
-[ext_resource path="res://Images/Speaker-1.svg" type="Texture" id=5]
-[ext_resource path="res://Images/Speaker-2.svg" type="Texture" id=6]
-[ext_resource path="res://Images/Speaker-3.svg" type="Texture" id=7]
 
 [node name="Musical Container" type="PanelContainer"]
 margin_left = 2.84399
@@ -503,9 +499,3 @@ margin_bottom = 35.0
 ticks_on_borders = true
 
 [node name="Volume Container" parent="VBoxContainer/Pitch Panel/VBoxContainer" instance=ExtResource( 3 )]
-texture_mode = {
-"volume0": ExtResource( 4 ),
-"volume1": ExtResource( 5 ),
-"volume2": ExtResource( 6 ),
-"volume3": ExtResource( 7 )
-}
