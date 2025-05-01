@@ -71,7 +71,7 @@ If you're interested in more workshops that utilize interactive hardware, check 
    * meet-your-makey\Godot Synthetic\Project\project.godot
 
 ## Usage
-![Usage Picture](https://i.ibb.co/RPjpy3x/index2.png)
+![Usage Picture](media/MakeyMakeyVisual.png)
 1. **Input Mapper**
    * There are eight keys (W, A, S, D, F, G, Left, Right) with instrument sounds attached to them.
    * Pressing down on those keys will move the corresponding icon and play the sound.
