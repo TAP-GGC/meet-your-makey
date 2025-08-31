@@ -18,8 +18,9 @@ This workshop has participants create their own instruments and experiment with 
 * <b>Your Main Technology:</b> Makey Makey - A device that allows students to use everyday objects as inputs for a computer program, making learning programming more interactive and engaging.
 
 [Technology Ambassador Program](https://tapggc.org/) (TAP) is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
-
-[Commercial Video](https://github.com/user-attachments/assets/4fb8e135-8cc1-4bc3-bc4d-fd2f2204923b)
+### Commercial Video 
+Click the image below to watch a 30 second commercial for the project <br> <br>
+[<img src= "Media/JEDIadTeam.PNG" width="400">](https://youtu.be/iMNQ3CiK6U8)
 
 ## :pencil2: Team: meet-your-makey
 <img alt="Team Meet-Your-Makey" src="media/Team Picture.jpg" width="" height="300">
