@@ -92,9 +92,9 @@ If you're interested in more workshops that utilize interactive hardware, check 
    * **Piano** - Switch to Piano.
 
 ## Short Demo Instructions
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+in construction...
 
 ## Workshop Instructions
-[Click here to view workshop walkthrough PDF file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
+Click here to view workshop walkthrough PDF file: in construction...
 
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+Video in construction...
