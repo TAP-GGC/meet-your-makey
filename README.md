@@ -23,7 +23,7 @@ Click the image below to watch a 30 second commercial for the project <br> <br>
 [<img src= "media/MeetYourMakey.jpg" width="400">](https://youtu.be/iMNQ3CiK6U8)
 
 ## :pencil2: Team: meet-your-makey
-<img alt="Team Meet-Your-Makey" src="media/Team Picture.jpg" width="" height="300">
+<img alt="Team Meet-Your-Makey" src="media/Team Picture.jpg" width="400" height="300">
 
 > (From left to right: James Broome, Khadijah Nixon, Alex Smyntyna, Hieu Dinh.)
 
@@ -33,8 +33,8 @@ Click the image below to watch a 30 second commercial for the project <br> <br>
 * **Hieu Dinh**
 
 ## :mortar_board: Advisors
-* **Anca Doloc Mihu** - Assistant Professor of Information Technology
-* **Cindy Robertson** - Assistant Professor of Information Technology
+* **Anca Doloc Mihu** - Associate Professor of Information Technology
+* **Cindy Robertson** - Associate Professor of Information Technology
 
 ## :page_with_curl: Project Description
 This project utilizes the Makey Makey device and the Godot game engine to create an interactive musical instrument. Participants will build their own instrument by connecting everyday objects to the Makey Makey and program it using Godot. The instrument will trigger sounds and interact with the player through key mappings, volume control, and recording features. Through this process, participants will understand how to implement algorithms in a physical, tangible way.
