@@ -99,4 +99,5 @@ Click on the image below to watch a 5 minute video walkthrough of our setup for 
 ## Workshop Instructions
 [Click here to view workshop walkthrough PDF file:](media/Meet-your-Makey%20Step-by-Step%20Installation.pdf)
 
-Video in construction...
+Click on the image below to watch our workshop video. <br>
+[<img src= "media/MakeyInstruments.PNG">](https://youtu.be/sALh5lx-QjA)
