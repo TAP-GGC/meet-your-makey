@@ -94,9 +94,9 @@ If you're interested in more workshops that utilize interactive hardware, check 
 
 ## Short Demo 
 Click on the image below to watch a 5 minute video walkthrough of our setup for the workshop. <br>
-[<img src= "media/ProjectSetupGodot.PNG" width="400">](https://youtu.be/8iXchtH0mGE)
+[<img src= "media/ProjectSetupGodot.PNG">](https://youtu.be/8iXchtH0mGE)
 
 ## Workshop Instructions
-[Click here to view workshop walkthrough PDF file:](media/Meet-your-Makey Step-by-Step Installation.pdf)
+[Click here to view workshop walkthrough PDF file:](media/Meet-your-Makey%20Step-by-Step%20Installation.pdf)
 
 Video in construction...
