@@ -92,8 +92,8 @@ If you're interested in more workshops that utilize interactive hardware, check 
    * **Piano** - Switch to Piano.
 
 ## Short Demo 
-Below is a link to a 5 minute video walkthrough of our setup for the workshop. <br>
-[<img src= "Media/JEDIworkshopShort.PNG" width="400">](https://youtu.be/8iXchtH0mGE)
+Click on the image below to watch a 5 minute video walkthrough of our setup for the workshop. <br>
+[<img src= "media/ProjectSetupGodot.PNG" width="400">](https://youtu.be/8iXchtH0mGE)
 
 ## Workshop Instructions
 Click here to view workshop walkthrough PDF file: in construction...
