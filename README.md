@@ -91,8 +91,9 @@ If you're interested in more workshops that utilize interactive hardware, check 
    * **Violin** - Switch to violin.
    * **Piano** - Switch to Piano.
 
-## Short Demo Instructions
-in construction...
+## Short Demo 
+Below is a link to a 5 minute video walkthrough of our setup for the workshop. <br>
+[<img src= "Media/JEDIworkshopShort.PNG" width="400">](https://youtu.be/8iXchtH0mGE)
 
 ## Workshop Instructions
 Click here to view workshop walkthrough PDF file: in construction...
